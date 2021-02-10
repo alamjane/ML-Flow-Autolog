@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jane%20alam/Downloads/myproject-practice/autolog/mlruns/0/7675ddbce2c9409fbc529c3ae32409ff/artifacts
+end_time: 1612935137209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7675ddbce2c9409fbc529c3ae32409ff
+run_uuid: 7675ddbce2c9409fbc529c3ae32409ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1612935136956
+status: 3
+tags: []
+user_id: jane alam
